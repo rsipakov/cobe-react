@@ -1,11 +1,8 @@
 {
-  "name": "react",
+  "name": "cobe-react",
   "version": "1.0.0",
-  "description": "React example starter project",
-  "keywords": [
-    "react",
-    "starter"
-  ],
+  "description": "A lightweight (5kB) WebGL globe lib.",
+  "keywords": [],
   "main": "src/index.js",
   "dependencies": {
     "cobe": "0.4.2",
